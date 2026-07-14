@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/ankitbhardwaj7488-afk/leetcode_progress/tree/master/0039-combination-sum) |
 | [0322-coin-change](https://github.com/ankitbhardwaj7488-afk/leetcode_progress/tree/master/0322-coin-change) |
 ## Dynamic Programming
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ankitbhardwaj7488-afk/leetcode_progress/tree/master/0322-coin-change) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/ankitbhardwaj7488-afk/leetcode_progress/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
