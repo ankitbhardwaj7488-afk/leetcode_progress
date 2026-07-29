@@ -20,4 +20,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/ankitbhardwaj7488-afk/leetcode_progress/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/ankitbhardwaj7488-afk/leetcode_progress/tree/master/0051-n-queens) |
+## Hash Table
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/ankitbhardwaj7488-afk/leetcode_progress/tree/master/0567-permutation-in-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/ankitbhardwaj7488-afk/leetcode_progress/tree/master/0567-permutation-in-string) |
+## String
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/ankitbhardwaj7488-afk/leetcode_progress/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/ankitbhardwaj7488-afk/leetcode_progress/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
