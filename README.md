@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ankitbhardwaj7488-afk/leetcode_progress/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/ankitbhardwaj7488-afk/leetcode_progress/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/ankitbhardwaj7488-afk/leetcode_progress/tree/master/0051-n-queens) |
 | [0322-coin-change](https://github.com/ankitbhardwaj7488-afk/leetcode_progress/tree/master/0322-coin-change) |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/ankitbhardwaj7488-afk/leetcode_progress/tree/master/2965-find-missing-and-repeated-values) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ankitbhardwaj7488-afk/leetcode_progress/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
