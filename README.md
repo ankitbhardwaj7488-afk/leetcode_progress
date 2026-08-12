@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ankitbhardwaj7488-afk/leetcode_progress/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/ankitbhardwaj7488-afk/leetcode_progress/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/ankitbhardwaj7488-afk/leetcode_progress/tree/master/0051-n-queens) |
+| [0152-maximum-product-subarray](https://github.com/ankitbhardwaj7488-afk/leetcode_progress/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/ankitbhardwaj7488-afk/leetcode_progress/tree/master/0322-coin-change) |
 | [2965-find-missing-and-repeated-values](https://github.com/ankitbhardwaj7488-afk/leetcode_progress/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/ankitbhardwaj7488-afk/leetcode_progress/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/ankitbhardwaj7488-afk/leetcode_progress/tree/master/0322-coin-change) |
 ## Breadth-First Search
 |  |
